@@ -7,6 +7,7 @@
     <title>Home</title>
 </head>
 <body>
+    <img src="https://codeplus.it/uploads/laravel.png" alt="Laravel Logo">
     <h1>{{$mainTitle}}</h1>
     <ul>
         <li><a href="/">Home</a></li>
